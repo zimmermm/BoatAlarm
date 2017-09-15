@@ -1,0 +1,16 @@
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\bin\Release\BoatAlarm.exe.config
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\bin\Release\BoatAlarm.exe
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\bin\Release\BoatAlarm.pdb
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\MainWindow.g.cs
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\InputDialog.g.cs
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\App.g.cs
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\BoatAlarm_MarkupCompile.cache
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\BoatAlarm_MarkupCompile.lref
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\MainWindow.baml
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\InputDialog.baml
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\BoatAlarm.g.resources
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\BoatAlarm.Properties.Resources.resources
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\BoatAlarm.csproj.GenerateResource.Cache
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\BoatAlarm.csproj.CoreCompileInputs.cache
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\BoatAlarm.exe
+C:\Users\zimmermm\source\repos\BoatAlarm\BoatAlarm\obj\Release\BoatAlarm.pdb
